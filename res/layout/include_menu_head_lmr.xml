@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/button_normal"
+              android:orientation="horizontal"
+              android:id="@+id/ll_head_root"
+    android:background="@drawable/elevation"
+>
+
+
+
+    <ImageView
+        android:id="@+id/iv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@null"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/tv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:text="取消"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:background="@null"/>
+
+
+    <ImageView
+        android:id="@+id/iv__middle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:background="@null"
+        android:textSize="18sp" />
+    <TextView
+        android:id="@+id/tv__middle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:text="修改手机号码"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:background="@null"/>
+    <ImageView
+        android:id="@+id/iv_right"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:enabled="false"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:background="@null"
+        />
+    <TextView
+        android:id="@+id/tv_right"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:enabled="false"
+        android:gravity="center"
+        android:text="保存"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:background="@null"/>
+
+
+</RelativeLayout>

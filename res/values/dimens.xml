@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_24">24sp</dimen>
+    <dimen name="font_size_26">26sp</dimen>
+    <dimen name="font_size_28">28sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="page_margin">10dp</dimen>
+    <dimen name="anim_circle_indicator_height">30dp</dimen>
+
+    <!-- 尺寸 -->
+    <dimen name="nought">0dp</dimen>
+    <dimen name="head_height">80dp</dimen>
+    <dimen name="main_banner_height">180dp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="button_normal">40dp</dimen>
+ <dimen name="menu_normal">60dp</dimen>
+ <dimen name="padding_normal">5dp</dimen>
+    <dimen name="horizontal_line">1dp</dimen>
+    <dimen name="vertical_line">1dp</dimen>
+
+
+ <dimen name="indicator_right_padding">10dp</dimen>
+ <dimen name="indicator_corner_radius">12dp</dimen>
+ <dimen name="indicator_internal_padding">4dp</dimen>
+ <dimen name="header_footer_left_right_padding">24dp</dimen>
+ <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+</resources>
