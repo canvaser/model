@@ -8,7 +8,7 @@
     >
 
 
-    <com.canvaser.library.view.titlevewpager.PagerSlidingTabStrip
+    <com.mobisoft.library.view.titlevewpager.PagerSlidingTabStrip
         android:id="@+id/PagerSlidingTabStrip"
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_normal"

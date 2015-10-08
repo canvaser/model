@@ -13,7 +13,7 @@
               android:background="@drawable/elevation"
               >
 
-    <com.canvaser.library.view.selectview.SelectView
+    <com.mobisoft.library.view.selectview.SelectView
         android:background="@null"
         android:gravity="center"
         android:layout_weight="1"
@@ -41,9 +41,9 @@
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:gravity="center"/>
-    </com.canvaser.library.view.selectview.SelectView>
+    </com.mobisoft.library.view.selectview.SelectView>
 
-    <com.canvaser.library.view.selectview.SelectView
+    <com.mobisoft.library.view.selectview.SelectView
         android:background="@null"
         android:gravity="center"
         android:layout_weight="1"
@@ -70,9 +70,9 @@
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:gravity="center"/>
-    </com.canvaser.library.view.selectview.SelectView>
+    </com.mobisoft.library.view.selectview.SelectView>
 
-    <com.canvaser.library.view.selectview.SelectView
+    <com.mobisoft.library.view.selectview.SelectView
         android:background="@null"
         android:gravity="center"
         android:layout_weight="1"
@@ -99,10 +99,10 @@
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:gravity="center"/>
-    </com.canvaser.library.view.selectview.SelectView>
+    </com.mobisoft.library.view.selectview.SelectView>
 
 
-    <com.canvaser.library.view.selectview.SelectView
+    <com.mobisoft.library.view.selectview.SelectView
         android:background="@null"
         android:gravity="center"
         android:layout_weight="1"
@@ -129,7 +129,7 @@
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:gravity="center"/>
-    </com.canvaser.library.view.selectview.SelectView>
+    </com.mobisoft.library.view.selectview.SelectView>
 
 </LinearLayout>
 </RelativeLayout>
